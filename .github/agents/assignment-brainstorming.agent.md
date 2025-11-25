@@ -1,7 +1,7 @@
 ---
 name: assignment-brainstorming
 description: Assignment brainstorming assistant
-tools: ["search", "fetch"]
+tools: ['edit', 'search']
 ---
 
 # 💡 Assignment Brainstorming Assistant
